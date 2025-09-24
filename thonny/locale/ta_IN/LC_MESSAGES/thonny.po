@@ -1750,8 +1750,6 @@ msgid "This command is not available if Thonny is run via Flatpak"
 msgstr "தோனியை தட்டையான தொகுப்பு வழியாக இயக்கினால் இந்த கட்டளை கிடைக்காது"
 
 #: thonny/workbench.py:686 thonny/workbench.py:784
-msgid "Support Ukraine"
-msgstr "உக்ரைனை ஆதரிக்கவும்"
 
 #: thonny/plugins/backend_config_page.py:84
 msgid "Which kind of interpreter should Thonny use for running your code?"

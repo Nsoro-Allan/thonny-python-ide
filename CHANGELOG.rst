@@ -309,7 +309,7 @@ MicroPython
 
 Various
 ~~~~~~~
-* Add new toolbar button which opens the wiki page describing ways to help Ukraine survive the attack from Russia.
+* Add new toolbar button which opens the wiki page describing community help resources.
 * Allow running content of untitled editors without saving, #778
 * Clear Shell before starting new process (Run, Debug, Stop/Restart, ...) by default. Can be turned off in Tools => Options => Shell, #1681
 * Make stacktrace links to ``<stdin>`` and ``<input>`` pseudo-files go to the editor containing corresponding source, #778
@@ -754,7 +754,7 @@ Enhanced
 ==================
 * NEW: Add European Portuguese translation (by Emanuel Angelo)
 * NEW: Add Lithuanian translation (by Vytenis)
-* NEW: Add Ukrainian translation (by borpol)
+* NEW: Add translation (if applicable) (by borpol)
 * FIXED #802: Avoid scary traceback on MicroPython disconnect
 * FIXED #840: Problems with file dialogs in macOS 10.15
 * FIXED #843: Make right-click select items in Files view in macOS

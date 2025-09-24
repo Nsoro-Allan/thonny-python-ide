@@ -1699,8 +1699,6 @@ msgid "This command is not available if Thonny is run via Flatpak"
 msgstr "このコマンドは、Thonny が Flatpak 経由で実行されている場合は使用できません"
 
 #: thonny/workbench.py:700 thonny/workbench.py:799
-msgid "Support Ukraine"
-msgstr "ウクライナを支援してください"
 
 #: thonny/plugins/backend_config_page.py:90
 msgid "Which kind of interpreter should Thonny use for running your code?"
